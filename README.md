@@ -6,7 +6,8 @@ The task is divied into 3 Activityes.
 - Activity 3
  
 # Badges
-
+!(Code quality)[https://www.code-inspector.com/project/28745/score/svg]
+!(Code grade)[https://www.code-inspector.com/project/28745/status/svg]
 
 ## Activity 1
 As soon the person enter the car once he sit and start the car that person will get the some set of instruction ehich is display on the LCD screen. Onces they sit the switch is close and is connected to the LED which indicated that person is seated and in case that person is get out of car that will notificated by the LCD screen.
